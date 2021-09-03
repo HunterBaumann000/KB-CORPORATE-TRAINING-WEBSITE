@@ -1,0 +1,13 @@
+body {
+    background-color: #b9cece;
+}
+
+footer {
+    background-color: darkturquoise;
+}
+
+.jumbotron {
+    margin-top: 1em;
+    margin-left: 4em;
+    margin-right: 4em;
+}
